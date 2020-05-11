@@ -2,7 +2,7 @@
 title: "Get Variation"
 excerpt: ""
 slug: "get-variation-go"
-hidden: true
+hidden: false
 createdAt: "2019-09-12T14:11:49.333Z"
 updatedAt: "2019-10-29T23:44:33.591Z"
 ---

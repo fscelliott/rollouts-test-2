@@ -2,7 +2,7 @@
 title: "Event batching"
 excerpt: ""
 slug: "event-batching-go"
-hidden: true
+hidden: false
 createdAt: "2019-10-29T23:36:28.978Z"
 updatedAt: "2020-01-16T20:42:04.941Z"
 ---

@@ -2,7 +2,7 @@
 title: "OptimizelyConfig"
 excerpt: ""
 slug: "optimizelyconfig-go"
-hidden: true
+hidden: false
 createdAt: "2020-01-17T19:10:55.970Z"
 updatedAt: "2020-01-28T21:53:26.607Z"
 ---

@@ -2,7 +2,7 @@
 title: "Get Feature Variable"
 excerpt: ""
 slug: "get-feature-variable-go"
-hidden: true
+hidden: false
 createdAt: "2019-09-12T14:11:43.293Z"
 updatedAt: "2019-10-29T23:43:46.140Z"
 ---

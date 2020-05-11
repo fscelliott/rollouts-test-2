@@ -2,7 +2,7 @@
 title: "Configure event dispatcher"
 excerpt: ""
 slug: "configure-event-dispatcher-go"
-hidden: true
+hidden: false
 createdAt: "2019-09-12T13:58:15.596Z"
 updatedAt: "2019-12-10T00:19:39.940Z"
 ---

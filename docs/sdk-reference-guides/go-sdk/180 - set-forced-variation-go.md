@@ -2,7 +2,7 @@
 title: "Set Forced Variation"
 excerpt: ""
 slug: "set-forced-variation-go"
-hidden: true
+hidden: false
 createdAt: "2019-09-12T14:11:59.917Z"
 updatedAt: "2019-12-03T22:33:30.184Z"
 ---

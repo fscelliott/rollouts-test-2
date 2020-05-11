@@ -2,7 +2,7 @@
 title: "Activate"
 excerpt: ""
 slug: "activate-go"
-hidden: true
+hidden: false
 createdAt: "2019-09-12T13:58:43.131Z"
 updatedAt: "2019-10-29T23:41:25.988Z"
 ---

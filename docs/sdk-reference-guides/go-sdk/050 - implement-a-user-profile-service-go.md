@@ -2,7 +2,7 @@
 title: "Implement a user profile service"
 excerpt: ""
 slug: "implement-a-user-profile-service-go"
-hidden: true
+hidden: false
 createdAt: "2019-09-12T13:56:27.183Z"
 updatedAt: "2019-12-03T20:10:31.031Z"
 ---

@@ -2,7 +2,7 @@
 title: "Remove Forced Variation"
 excerpt: ""
 slug: "remove-forced-variation-go"
-hidden: true
+hidden: false
 createdAt: "2019-12-03T19:23:24.666Z"
 updatedAt: "2019-12-03T19:26:39.873Z"
 ---

@@ -2,7 +2,7 @@
 title: "Example usage"
 excerpt: ""
 slug: "example-usage-go"
-hidden: true
+hidden: false
 createdAt: "2019-09-11T22:26:55.008Z"
 updatedAt: "2019-12-13T01:40:10.425Z"
 ---

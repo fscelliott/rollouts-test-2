@@ -2,7 +2,7 @@
 title: "Customize error handler"
 excerpt: ""
 slug: "customize-error-handler-go"
-hidden: true
+hidden: false
 createdAt: "2019-09-12T13:58:25.299Z"
 updatedAt: "2019-09-12T14:09:26.510Z"
 ---
